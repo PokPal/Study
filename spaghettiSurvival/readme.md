@@ -2,6 +2,4 @@
 
 조작법은 도움말을 참고해주세요.
 
-[![Video Label](http://img.youtu.be/1QkWUBWIMPw?si=qaFnKVvqMN1qhUAy/0.jpg)](https://youtu.be/1QkWUBWIMPw?si=qaFnKVvqMN1qhUAy)
-
 [![Video Label](http://img.youtube.com/vi/1QkWUBWIMPw/0.jpg)](https://youtu.be/1QkWUBWIMPw)
