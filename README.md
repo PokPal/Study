@@ -1,7 +1,2 @@
 # Study
 
-쫓아오는 스파게티 괴물을 처치하는 게임입니다.
-
-조작법은 도움말을 참고해주세요.
-
-[![Video Label](http://img.youtube.com/vi/1QkWUBWIMPw/0.jpg)](https://youtu.be/1QkWUBWIMPw)
